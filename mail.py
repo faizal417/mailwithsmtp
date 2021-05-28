@@ -12,7 +12,7 @@ user="faizal" #username
 
 email = "hr@lnfosys.net" #sender's email
 
-recipient = "piyush.s@lucideustech.com" # recipient's mail
+recipient = "" # recipient's mail
 
 smtp="127.0.0.1" # ip address of smtp server
 
