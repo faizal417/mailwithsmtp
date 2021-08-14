@@ -10,7 +10,7 @@ subject = "Testing Email Spoofing"
 
 user="faizal" #username
 
-email = "hr@lnfosys.net" #sender's email
+email = "user@domain.com" #sender's email
 
 recipient = "" # recipient's mail
 
